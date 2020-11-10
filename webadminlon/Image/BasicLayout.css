@@ -1,0 +1,144 @@
+BODY {
+	FONT-SIZE: 9pt; FONT-FAMILY: "Tahoma"
+}
+A {
+	FONT-SIZE: 12px
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: "Tahoma", "Verdana"
+}
+BODY {
+	FONT-FAMILY: tahoma
+}
+TD {
+	FONT-FAMILY: tahoma
+}
+.p1 {
+	FONT-FAMILY: tahoma
+}
+.p2 {
+	FONT-FAMILY: tahoma
+}
+.formfont {
+	FONT-FAMILY: tahoma
+}
+TD {
+	FONT-SIZE: 9pt
+}
+.Newbutton {
+	FONT-SIZE: 9pt; COLOR: white; FONT-FAMILY: "Tahoma"
+}
+.InputCss {
+	BORDER-RIGHT: #93bee2 1px solid; BORDER-TOP: #93bee2 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #93bee2 1px solid; COLOR: #003399; BORDER-BOTTOM: #93bee2 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"
+}
+.ButtonCss {
+	BORDER-RIGHT: #93bee2 1px solid; BORDER-TOP: #93bee2 1px solid; FONT-SIZE: 9pt; BACKGROUND-IMAGE: url(http://www.yaowork.com/oa/Images/bluebuttonbg.gif); BORDER-LEFT: #93bee2 1px solid; CURSOR: hand; COLOR: #006699; BORDER-BOTTOM: #93bee2 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: #e8f4ff
+}
+.blueButtonCss {
+	BORDER-RIGHT: #93bee2 0px solid; BORDER-TOP: #93bee2 0px solid; FONT-SIZE: 9pt; BACKGROUND-IMAGE: url(http://www.yaowork.com/oa/Images/blue_button_bg.gif); BORDER-LEFT: #93bee2 0px solid; CURSOR: hand; COLOR: #003366; BORDER-BOTTOM: #93bee2 0px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: #ffffff
+}
+.redButtonCss {
+	BORDER-RIGHT: #93bee2 1px solid; BORDER-TOP: #93bee2 1px solid; FONT-SIZE: 9pt; BACKGROUND-IMAGE: url(http://www.yaowork.com/oa/Images/redbuttonbg.gif); BORDER-LEFT: #93bee2 1px solid; CURSOR: hand; COLOR: #0066cc; BORDER-BOTTOM: #93bee2 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: #ffffff
+}
+.greenButtonCss {
+	BORDER-RIGHT: #93bee2 1px solid; BORDER-TOP: #93bee2 1px solid; FONT-SIZE: 9pt; BACKGROUND-IMAGE: url(http://www.yaowork.com/oa/Images/greenbuttonbg.gif); BORDER-LEFT: #93bee2 1px solid; CURSOR: hand; COLOR: #0066cc; BORDER-BOTTOM: #93bee2 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: #ffffff
+}
+.NomButtonCss {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; COLOR: #5e5e5e; BORDER-BOTTOM: #cccccc 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: #ffffff
+}
+.InputSta {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: #93bee2 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: 1px solid; COLOR: #0066cc; BORDER-BOTTOM: 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: white
+}
+.SelectSta {
+	BORDER-RIGHT: #f1f1e4 1px solid; BORDER-TOP: #f1f1e4 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #f1f1e4 1px solid; COLOR: #0066cc; BORDER-BOTTOM: #f1f1e4 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: #e8f4ff
+}
+.ButtonSta {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #cccccc 1px solid; WIDTH: 60px; COLOR: #cccccc; BORDER-BOTTOM: #cccccc 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: #ffffff
+}
+.GbText {
+	FONT-SIZE: 9pt; FONT-FAMILY: "Tahoma"
+}
+.CurText {
+	FONT-SIZE: 12px; FONT-FAMILY: "Tahoma"
+}
+.SplitHRCss {
+	BORDER-RIGHT: #5e5e5e 1px solid; BORDER-TOP: #5e5e5e 1px solid; BORDER-LEFT: #5e5e5e 1px solid; COLOR: #5e5e5e; BORDER-BOTTOM: #5e5e5e 1px solid; BACKGROUND-COLOR: #5e5e5e
+}
+.SecText {
+	FONT-SIZE: 9pt; COLOR: gray
+}
+.BGbText {
+	FONT-SIZE: 9pt; FONT-STYLE: oblique
+}
+.SchFinishText {
+	FONT-SIZE: 9pt; COLOR: gray
+}
+.FinishText {
+	COLOR: gray; TEXT-DECORATION: line-through
+}
+A {
+	FONT-SIZE: 9pt; COLOR: #006699; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A:unknown {
+	COLOR: black; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff4500; TEXT-DECORATION: underline
+}
+A:link {
+	TEXT-DECORATION: none
+}
+.InputSta_page {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #ffffff 1px solid; COLOR: #5e5e5e; BORDER-BOTTOM: #ffffff 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: #cccccc
+}
+.tbbaord {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.leftboard {
+	BORDER-RIGHT: #d7d7ae 1px solid; BORDER-TOP: black 0px solid; FONT-SIZE: 12px; BORDER-LEFT: #d7d7ae 1px solid; COLOR: #333333; BORDER-BOTTOM: #d7d7ae 1px solid; FONT-FAMILY: "ËÎÌו"
+}
+.StaText {
+	FONT-SIZE: 9px; FONT-STYLE: normal
+}
+.noRepeatTd {
+	BACKGROUND-REPEAT: no-repeat
+}
+.money {
+	FONT-WEIGHT: 100; FONT-SIZE: xx-small; TEXT-TRANSFORM: capitalize; FONT-FAMILY: "Tahoma"
+}
+.td {
+	FONT-SIZE: 9px; FONT-FAMILY: "Tahoma"
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #e8f4ff; FONT-SIZE: 9pt; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; OVERFLOW: auto; SCROLLBAR-SHADOW-COLOR: #0066cc; COLOR: #003366; SCROLLBAR-ARROW-COLOR: #0066cc; SCROLLBAR-BASE-COLOR: #fff0e1; SCROLLBAR-DARK-SHADOW-COLOR: #ffffff
+}
+BUTTON {
+	BORDER-RIGHT: #c8e4ff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 9pt; BACKGROUND-IMAGE: url(none); BORDER-LEFT: #ffffff 1px solid; COLOR: #0066cc; BORDER-BOTTOM: #c8e4ff 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: #f0fbec
+}
+TEXTAREA {
+	BORDER-RIGHT: #93bee2 1px solid; BORDER-TOP: #93bee2 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #93bee2 1px solid; COLOR: #0066cc; BORDER-BOTTOM: #93bee2 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: #ffffff; font-color: #0066cc
+}
+SELECT {
+	BORDER-RIGHT: #c8e4ff 1px solid; BORDER-TOP: #c8e4ff 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #c8e4ff 1px solid; COLOR: #0066cc; BORDER-BOTTOM: #c8e4ff 1px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"; BACKGROUND-COLOR: #e8f4ff
+}
+.Input2 {
+	BORDER-RIGHT: #003390 0px solid; BORDER-TOP: #003390 0px solid; FONT-SIZE: 9pt; BORDER-LEFT: #003390 0px solid; COLOR: #0066cc; BORDER-BOTTOM: #003390 0px solid; FONT-STYLE: normal; FONT-FAMILY: "Tahoma"
+}
+.Input3 {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #ffffff 1px solid; COLOR: #0066cc; BORDER-BOTTOM: #0066cc 1px solid; FONT-FAMILY: "Tahoma"; TEXT-DECORATION: none
+}
+.errorbg {
+	BACKGROUND-IMAGE: url(http://www.yaowork.com/oa/Images/nopage.gif)
+}
+.queding {
+	WIDTH: 123px; HEIGHT: 42px
+}
+.tuige {
+	WIDTH: 100px; HEIGHT: 41px
+}
+.input_logo_key {
+	WIDTH: 22px
+}

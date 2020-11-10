@@ -1,0 +1,38 @@
+安装使用说明 ：
+
+1.安装调用
+
+<input type="hidden" name="content1" value="">
+<iframe ID="eWebEditor1" src="/ewebeditor.htm?id=content1&style=coolblue" frameborder="0" scrolling="no" width="550" HEIGHT="350"></iframe>
+或者
+<textarea name="content1" style="display:none"></textarea>
+<iframe ID="eWebEditor1" src="/ewebeditor.htm?id=content1&style=coolblue" frameborder="0" scrolling="no" width="550" HEIGHT="350"></iframe>
+
+2、修改数据时候调用为：
+
+<input type="hidden" name="content1" value="<%=Server.HTMLEncode((s_Content)%>">
+<iframe ID="eWebEditor1" src="/ewebeditor.htm?id=content1&style=coolblue" frameborder="0" scrolling="no" width="550" HEIGHT="350"></iframe>
+或者
+<textarea name="content1" style="display:none"><%=Server.HTMLEncode((s_Content)%></textarea>
+<iframe ID="eWebEditor1" src="/ewebeditor.htm?id=content1&style=coolblue" frameborder="0" scrolling="no" width="550" HEIGHT="350"></iframe>
+
+3、参数设置
+id
+相关联的保存编辑内容的表单项名，也就是提交保存页要引用的表单项名
+style
+使用的样式名，可以是标准的样式名或自定义的样式名，如果使用默认的 coolblue
+可留空
+originalfilename
+相关联的保存上传原文件名列表的表单项名，必须是 input 类型，可以带 onchange
+事件
+savefilename
+相关联的保存上传保存文件名列表的表单项名，必须是 input 类型，可以带
+onchange 事件
+savepathfilename
+相关联的保存上传保存文件名（带路径）列表的表单项名，必须是 input 类型，可
+以带 onchange 事件
+extcss
+外部样式表引用，是相对 ewebeditor 目录的路径文件，文件名为.css
+
+
+

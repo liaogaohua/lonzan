@@ -1,0 +1,1252 @@
+BODY
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-size: 12px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	font-family: Arial, "宋体" , Helvetica, sans-serif;
+}
+DIV
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-size: 12px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	font-family: Arial, "宋体" , Helvetica, sans-serif;
+}
+FORM
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-size: 12px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	font-family: Arial, "宋体" , Helvetica, sans-serif;
+}
+LI
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-size: 12px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	font-family: Arial, "宋体" , Helvetica, sans-serif;
+}
+UL
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-size: 12px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	font-family: Arial, "宋体" , Helvetica, sans-serif;
+}
+P
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-size: 12px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	font-family: Arial, "宋体" , Helvetica, sans-serif;
+}
+TABLE
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-size: 12px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	font-family: Arial, "宋体" , Helvetica, sans-serif;
+}
+H3
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-size: 12px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	font-family: Arial, "宋体" , Helvetica, sans-serif;
+}
+H4
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-size: 12px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	font-family: Arial, "宋体" , Helvetica, sans-serif;
+}
+H5
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-size: 12px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	font-family: Arial, "宋体" , Helvetica, sans-serif;
+}
+BODY
+{
+	background-image: none;
+	background-color: #ffffff;
+}
+TABLE#all
+{
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+TABLE#all TD
+{
+	vertical-align: top;
+}
+IMG
+{
+	border-top-width: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	border-left-width: 0px;
+	border-bottom-width: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	border-right-width: 0px;
+}
+SELECT
+{
+	color: #032f78;
+}
+#top
+{
+	width: 100%;
+	position: relative;
+	height: 60px;
+}
+.topnv
+{
+	right: 5px;
+	bottom: 7px;
+	position: absolute;
+}
+.logout
+{
+	left: 185px;
+	bottom: 7px;
+	position: absolute;
+}
+#dropmenu
+{
+	border-right: #9db3c5 1px solid;
+	padding-top: 6px;
+	position: relative;
+	background-color: #f6f9fd;
+	text-align: left;
+}
+#dropmenu #search
+{
+	width: 184px;
+	position: relative;
+}
+#dropmenu #search .inp_search
+{
+	border-top-width: 0px;
+	padding-right: 0px;
+	padding-left: 3px;
+	border-left-width: 0px;
+	border-bottom-width: 0px;
+	padding-bottom: 0px;
+	margin: 1px 0px 0px 3px;
+	width: 100px;
+	padding-top: 1px;
+	height: 16px;
+	border-right-width: 0px;
+}
+#dropmenu #search .advsearch
+{
+	background: url(adv_search.gif) no-repeat left top;
+	left: 111px;
+	width: 45px;
+	position: absolute;
+	top: 0px;
+	height: 22px;
+}
+#dropmenu #search .advsearch2
+{
+	background: url(adv_search.gif) no-repeat left -31px;
+}
+#dropmenu #search .advsearch .link_search
+{
+	left: 5px;
+	position: absolute;
+	top: 5px;
+}
+#dropmenu #search .advsearch .btn_adv
+{
+	right: 0px;
+	width: 11px;
+	position: absolute;
+	top: 0px;
+	height: 22px;
+}
+#dropmenu #search .advsearch A:link
+{
+	color: #002f76;
+	text-decoration: none;
+}
+#dropmenu #search .advsearch A:visited
+{
+	color: #002f76;
+	text-decoration: none;
+}
+#dropmenu #search .advsearch A:hover
+{
+	color: #002f76;
+}
+#dropmenu #maildir
+{
+	margin: 6px 1px 0px;
+}
+#dropmenu #maildir H5
+{
+	padding-right: 0px;
+	padding-left: 20px;
+	font-weight: bold;
+	font-size: 12px;
+	background: url(left_title_bj.gif) no-repeat;
+	padding-bottom: 0px;
+	color: #004378;
+	padding-top: 12px;
+	height: 19px;
+}
+#dropmenu #maildir A:link
+{
+	color: #004378;
+	text-decoration: none;
+}
+#dropmenu #maildir A:visited
+{
+	color: #004378;
+	text-decoration: none;
+}
+#dropmenu #maildir A:hover
+{
+	text-decoration: underline;
+}
+#dropmenu #maildir #dirlist
+{
+	margin-top: 4px;
+}
+#dropmenu #maildir #dirlist .dir
+{
+	margin: 0px 0px 0px 15px;
+	color: #143b5b;
+	line-height: 21px;
+	position: relative;
+	height: 21px;
+}
+#dropmenu #maildir #dirlist .inthis
+{
+	margin-right: 3px;
+}
+#dropmenu #maildir #dirlist .overthis
+{
+	background-color: #f6f9fd;
+}
+#dropmenu #maildir #dirlist .dir A
+{
+	display: block;
+	width: 98%;
+	color: #143b5b;
+	text-indent: 27px;
+	line-height: 22px;
+	height: 22px;
+	text-decoration: none;
+}
+#dropmenu .more
+{
+	right: 6px;
+	color: #002f76;
+	position: absolute;
+	top: 0px;
+}
+#dropmenu #maildir #dirlist .dir .more A:link
+{
+	padding-right: 0px;
+	display: inline;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	width: 26px;
+	color: #002f76;
+	text-indent: 0px;
+	padding-top: 0px;
+	text-decoration: underline;
+}
+#dropmenu #maildir #dirlist .dir .more A:visited
+{
+	padding-right: 0px;
+	display: inline;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	width: 26px;
+	color: #002f76;
+	text-indent: 0px;
+	padding-top: 0px;
+	text-decoration: underline;
+}
+#dropmenu #maildir #dirlist .dir .more A:hover
+{
+	display: inline;
+	width: 26px;
+	color: #c33;
+	text-decoration: none;
+}
+#dropmenu #maildir #dirlist .dir STRONG
+{
+	font-weight: bold;
+	margin-left: 5px;
+	color: #f00;
+}
+#dropmenu #maildir #dirlist .dir B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px top;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+#dropmenu #maildir #dirlist #noread B
+{
+	background: url(maillist.gif) no-repeat 5px top;
+	top: 0px;
+}
+#dropmenu #maildir #dirlist #inbox B
+{
+	background: url(maillist.gif) no-repeat 5px -20px;
+}
+#dropmenu #maildir #dirlist #sended B
+{
+	background: url(maillist.gif) no-repeat 5px -40px;
+}
+#dropmenu #maildir #dirlist #temp B
+{
+	background: url(maillist.gif) no-repeat 5px -58px;
+}
+#dropmenu #maildir #dirlist #rcy B
+{
+	background: url(maillist.gif) no-repeat 5px -78px;
+}
+#dropmenu #maildir #dirlist #deleted B
+{
+	background: url(maillist.gif) no-repeat 5px -95px;
+}
+#dropmenu #maildir #dirlist #sdeleted B
+{
+	background: url(maillist.gif) no-repeat 5px -114px;
+}
+#dropmenu .h4
+{
+	padding-right: 0px;
+	padding-left: 10px;
+	font-weight: bold;
+	font-size: 12px;
+	background: url(left_title_bj.gif) no-repeat;
+	padding-bottom: 0px;
+	color: #004378;
+	padding-top: 12px;
+	height: 19px;
+}
+#dropmenu .h4 A:link
+{
+	display: block;
+	width: 100%;
+	color: #004378;
+	text-indent: 12px;
+	height: 18px;
+	text-decoration: none;
+}
+#dropmenu .h4 A:visited
+{
+	display: block;
+	width: 100%;
+	color: #004378;
+	text-indent: 12px;
+	height: 18px;
+	text-decoration: none;
+}
+#dropmenu #sitesmsh4 A:link
+{
+	display: block;
+	width: 100%;
+	color: #f00;
+	text-indent: 12px;
+	height: 18px;
+	text-decoration: none;
+}
+#dropmenu #sitesmsh4 A:visited
+{
+	display: block;
+	width: 100%;
+	color: #f00;
+	text-indent: 12px;
+	height: 18px;
+	text-decoration: none;
+}
+#dropmenu #sitesmsh4 A:hover
+{
+	text-decoration: underline;
+}
+#dropmenu .h4 A:hover
+{
+	text-decoration: underline;
+}
+#dropmenu .h4 .more
+{
+	font-size: 12px;
+	right: 9px;
+}
+UNKNOWN
+{
+	right: 9px !important;
+}
+#dropmenu .h4 .more A:link
+{
+	padding-right: 0px;
+	display: inline;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	width: 28px;
+	color: #002f76;
+	text-indent: 0px;
+	padding-top: 0px;
+	text-decoration: underline;
+}
+#dropmenu .h4 .more A:visited
+{
+	padding-right: 0px;
+	display: inline;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	width: 28px;
+	color: #002f76;
+	text-indent: 0px;
+	padding-top: 0px;
+	text-decoration: underline;
+}
+#dropmenu .h4 .more A:hover
+{
+	display: inline;
+	width: 28px;
+	color: #c33;
+	text-decoration: none;
+}
+#dropmenu .h4b1
+{
+	display: block;
+	left: 0px;
+	width: 8px;
+	position: absolute;
+	top: 3px;
+	height: 8px;
+}
+#dropmenu .h4b2
+{
+	display: block;
+	left: 0px;
+	width: 8px;
+	position: absolute;
+	top: 3px;
+	height: 8px;
+}
+#dropmenu .h4b2
+{
+	background-position: left -180px;
+}
+#customdir
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 5px;
+	padding-top: 2px;
+}
+#address
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 2px;
+}
+#option
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 2px;
+}
+#mailsms
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 2px;
+}
+#smailsms
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 2px;
+}
+#business
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 2px;
+}
+#message
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 2px;
+}
+#account
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 2px;
+}
+#customer
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 15px;
+	padding-top: 2px;
+}
+#customdir
+{
+	border-bottom: #b4b4b4 1px solid;
+}
+#dropmenu .leftcd
+{
+	margin-top: 6px;
+}
+#dropmenu .leftcd .c_d
+{
+	margin: 0px 0px 0px 17px;
+	color: #002f76;
+	line-height: 21px;
+	position: relative;
+	height: 21px;
+}
+#dropmenu #serviceul
+{
+	padding-bottom: 20px;
+}
+#dropmenu #servicelist
+{
+	margin: 5px 0px 0px 17px;
+	color: #002f76;
+	line-height: 21px;
+	position: relative;
+	height: auto;
+}
+#dropmenu #servicelist P
+{
+	text-indent: 5px;
+	line-height: 18px;
+}
+#dropmenu #servicelist A
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin: 0px;
+	color: #002f76;
+	text-indent: 5px;
+	line-height: 18px;
+	padding-top: 0px;
+	position: relative;
+	height: 18px;
+	text-decoration: none;
+}
+#dropmenu #servicelist STRONG
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin: 0px;
+	color: #002f76;
+	text-indent: 5px;
+	line-height: 18px;
+	padding-top: 0px;
+	position: relative;
+	height: 18px;
+	text-decoration: none;
+}
+#dropmenu #servicelist A:hover
+{
+	text-decoration: underline;
+}
+#dropmenu .leftcd .c_d A:link
+{
+	display: block;
+	width: 100%;
+	color: #505050;
+	text-indent: 27px;
+	line-height: 21px;
+	height: 21px;
+	text-decoration: none;
+}
+#dropmenu .leftcd .c_d A:visited
+{
+	display: block;
+	width: 100%;
+	color: #505050;
+	text-indent: 27px;
+	line-height: 21px;
+	height: 21px;
+	text-decoration: none;
+}
+#dropmenu #customdirlist .c_d B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px -142px;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+#dropmenu .leftcd .c_d STRONG
+{
+	font-weight: bold;
+	margin-left: 5px;
+	color: #f00;
+}
+#dropmenu #addresslist B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px -228px;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+#dropmenu #addresslist #contactsico B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #addresslist #contactsgroupico B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #addresslist #contactssearchico B
+{
+	background-position: 5px -278px;
+}
+#dropmenu #addresslist #contactsieico B
+{
+	background-position: 5px -310px;
+}
+#dropmenu #addresslist #contactssettingico B
+{
+	background-position: 5px -337px;
+}
+#dropmenu #optionlist B,#dropmenu #extendlist B,#dropmenu #idclist B,#dropmenu #shoplist B,#dropmenu #websitelist B,#dropmenu #cxkflist B,#dropmenu #caselist B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px top;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+
+#dropmenu #optionlist #listico B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #mailsmslist B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px top;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+#dropmenu #mailsmslist #listico1 B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #smailsmslist B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px top;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+#dropmenu #smailsmslist #listico2 B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #smailsmslist #listico3 B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #smailsmslist #listico4 B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #businesslist B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px top;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+#dropmenu #businesslist #listico5 B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #businesslist #listico6 B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #businesslist #listico7 B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #msn #msn1 B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px -114px;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+#dropmenu #msn #msn2 B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px -114px;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+#dropmenu #messagelist B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px top;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+#dropmenu #messagelist #listico6 B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #accountlist B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px top;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+#dropmenu #accountlist #listico7 B
+{
+	background-position: 5px -114px;
+}
+#dropmenu #customerlist B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px top;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+#dropmenu #customerlist #listico8 B
+{
+	background-position: 5px -174px;
+}
+#dropmenu #customerlist #listico9 B
+{
+	background-position: 5px -174px;
+}
+#dropmenu .service
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 10px;
+	margin-left: 8px;
+	color: #b2b2b2;
+	padding-top: 26px;
+	position: relative;
+}
+#dropmenu .service B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat left -160px;
+	left: 0px;
+	width: 16px;
+	position: absolute;
+	top: 26px;
+	height: 16px;
+}
+#dropmenu #mailsmslist .c_d A:link
+{
+	text-indent: 25px;
+}
+#dropmenu #mailsmslist .c_d A:visited
+{
+	text-indent: 25px;
+}
+#dropmenu #mailsmslist .c_d A:hover
+{
+	text-indent: 25px;
+}
+#dropmenu #optionlist .c_d A:link
+{
+	text-indent: 25px;
+}
+#dropmenu #optionlist .c_d A:visited
+{
+	text-indent: 25px;
+}
+#dropmenu #optionlist .c_d A:hover
+{
+	text-indent: 25px;
+}
+#dropmenu .service P
+{
+	color: #b2b2b2;
+	text-indent: 22px;
+}
+.header_ding
+{
+	float: left;
+	background-image: url(header_ding.gif);
+	word-spacing: 0.6em;
+	width: 100%;
+	padding-top: 4px;
+	background-repeat: repeat-x;
+	height: 26px;
+	background-color: transparent;
+}
+.header_ding A
+{
+	color: #020000;
+	text-decoration: none;
+}
+.header_ding A:hover
+{
+	color: #ff0000;
+	text-decoration: underline;
+}
+.header_center
+{
+	background-image: url(top_di_03.gif);
+	width: 100%;
+	background-repeat: repeat-x;
+	height: 63px;
+}
+.header_logo
+{
+	float: left;
+	width: 15%;
+	padding-top: 5px;
+	padding-left: 8px;
+	height: 58px;
+}
+.header_text
+{
+	float: left;
+	width: 50%;
+	color: #0d1d56;
+	padding-top: 12px;
+	text-align: left;
+}
+.header_text A
+{
+	color: #0d1d56;
+	text-decoration: none;
+}
+.header_text A:hover
+{
+	color: #0d1d56;
+	text-decoration: underline;
+}
+.big
+{
+	font-weight: bold;
+	font-size: 14px;
+	color: #0d1d56;
+}
+.header_lian
+{
+	float: left;
+	width: 20%;
+	padding-top: 10px;
+}
+.header_lian A
+{
+	color: #000000;
+	text-decoration: none;
+}
+.header_lian A:hover
+{
+	color: #000000;
+	text-decoration: underline;
+}
+#top_1
+{
+	float: left;
+	width: 345px;
+	height: 20px;
+}
+#top_1 UL
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	list-style-type: none;
+	text-align: center;
+}
+#top_1 UL LI
+{
+	float: left;
+	width: 170px;
+	height: 20px;
+	text-align: center;
+}
+#treenav
+{
+	background-image: url(top_rel_15.gif);
+	width: 100%;
+	background-repeat: repeat-x;
+	height: 50px;
+	background-color: transparent;
+}
+#treenav UL
+{
+	padding-left: 10px;
+	font-size: 14px;
+	float: left;
+	margin: 0px;
+	list-style-type: none;
+	text-align: center;
+}
+#treenav UL LI
+{
+	background: url(shutiao_20.gif) no-repeat 82px 4px;
+	float: left;
+	width: 84px;
+	height: 23px;
+	text-align: center;
+}
+#treenav UL LI A:hover
+{
+	float: left;
+	width: 84px;
+	color: #3f6293;
+	text-align: center;
+	text-decoration: underline;
+}
+#treenav UL LI A
+{
+	font-size: 14px;
+	color: #3f6293;
+	line-height: 30px;
+	text-decoration: none;
+}
+#treenav .topbiao
+{
+	background-position: 0px 0px;
+	font-weight: bold;
+	font-size: 14px;
+	background-image: url(top_rel_17.gif);
+	width: 84px;
+	color: #ffffff;
+	background-repeat: no-repeat;
+	height: 26px;
+}
+.biao
+{
+	float: left;
+	width: 100%;
+}
+.right_ding
+{
+	background: url(right_di.gif) repeat-x;
+	float: left;
+	width: 100%;
+	height: 58px;
+}
+.liuyan1
+{
+	padding-right: 0px;
+	padding-left: 10px;
+	float: left;
+	padding-bottom: 0px;
+	width: 30%;
+	color: #0d1d56;
+	line-height: 180%;
+	padding-top: 9px;
+}
+A.hong
+{
+	font-weight: bold;
+	color: #d90e0e;
+	text-decoration: none;
+}
+A.hong:hover
+{
+	font-weight: bold;
+	color: #d90e0e;
+	text-decoration: underline;
+}
+.jifen1
+{
+	padding-right: 0px;
+	padding-left: 10px;
+	float: left;
+	padding-bottom: 0px;
+	width: 20%;
+	color: #0d1d56;
+	line-height: 180%;
+	padding-top: 12px;
+}
+.button1
+{
+	padding-right: 8px;
+	padding-left: 10px;
+	float: right;
+	padding-bottom: 0px;
+	width: 45%;
+	color: #0d1d56;
+	line-height: 230%;
+	padding-top: 9px;
+}
+.date
+{
+	padding-left: 230px;
+}
+.right_center
+{
+	padding-right: 0px;
+	padding-left: 150px;
+	float: left;
+	padding-bottom: 0px;
+	padding-top: 80px;
+}
+#index_msg
+{
+	width: 500px;
+	position: relative;
+}
+.ulbg
+{
+	display: block;
+	background: url(mailinfotagbg.gif) repeat-x left bottom;
+	position: relative;
+	height: 25px;
+}
+#index_msg .bdy
+{
+	border-right: #a4b2bd 1px solid;
+	border-top: #a4b2bd 0px solid;
+	border-left: #a4b2bd 1px solid;
+	border-bottom: #a4b2bd 1px solid;
+	height: 250px;
+}
+#index_msg .bdy P
+{
+	margin-left: 10px;
+	color: #9b9999;
+	line-height: 1.5;
+}
+#index_msg .bdy A:link
+{
+	color: #505050;
+	text-decoration: none;
+}
+#index_msg .bdy A:visited
+{
+	color: #505050;
+	text-decoration: none;
+}
+#index_msg .bdy A:hover
+{
+	color: #c33;
+	text-decoration: none;
+}
+.bdy TABLE
+{
+	margin: 0px;
+}
+#index_msg .bdy .bdymore
+{
+	color: #002f76;
+	margin-right: 12px;
+	text-align: right;
+}
+#index_msg .bdy .bdymore A:link
+{
+	color: #002f76;
+	text-decoration: none;
+}
+#index_msg .bdy .bdymore A:visited
+{
+	color: #002f76;
+	text-decoration: none;
+}
+#index_msg .bdy .bdymore A:hover
+{
+	color: #c33;
+	text-decoration: underline;
+}
+UL.selWh
+{
+	width: 500px;
+	color: #909090;
+	height: 25px;
+}
+.selWh LI
+{
+	background: url(mailinfotag.gif) #fff no-repeat left -30px;
+	float: left;
+	margin-left: 2px;
+	width: 118px;
+	color: #0d2356;
+	line-height: 25px;
+	list-style-type: none;
+	text-align: center;
+}
+.selWh LI A
+{
+	display: block;
+	font-weight: bold;
+	color: #8b9aa3;
+	height: 25px;
+	text-decoration: none;
+}
+.selWh LI.on
+{
+	font-weight: bold;
+	background: url(mailinfotag.gif) #fff no-repeat left top;
+}
+.selWh LI.on A
+{
+	color: #0d2356;
+}
+.kuang5
+{
+	border-right: #adadad 1px solid;
+	padding-right: 1px;
+	border-top: #adadad 1px solid;
+	padding-left: 1px;
+	padding-bottom: 2px;
+	border-left: #adadad 1px solid;
+	width: 104px;
+	padding-top: 2px;
+	border-bottom: #adadad 1px solid;
+	height: 90px;
+	background-color: #ffffff;
+}
+A.blgo_biao
+{
+	font-weight: bold;
+	font-size: 14px;
+	color: #fc0202;
+	text-decoration: none;
+}
+A.blgo_biao:hover
+{
+	font-size: 14px;
+	color: #fc0202;
+	text-decoration: underline;
+}
+A.blgo_biao1
+{
+	font-size: 14px;
+	color: #555555;
+	text-decoration: none;
+}
+A.blgo_biao1:hover
+{
+	font-size: 14px;
+	color: #555555;
+	text-decoration: underline;
+}
+A.top12
+{
+	font-size: 14px;
+	color: #5a5a5a;
+	text-decoration: none;
+}
+A.top12:hover
+{
+	font-size: 14px;
+	color: #ff3300;
+	text-decoration: underline;
+}
+
+
+
+
+
+#dropmenu #ztnewdivdh1 #msn1 B,#dropmenu #ztnewdivdh2 #msn1 B,#dropmenu #ztnewdivdh3 #msn1 B,#dropmenu #ztnewdivdh4 #msn1 B
+{
+	display: block;
+	background: url(maillist.gif) no-repeat 5px -114px;
+	left: 0px;
+	width: 21px;
+	position: absolute;
+	top: 2px;
+	height: 16px;
+}
+
