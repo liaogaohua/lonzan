@@ -4,7 +4,7 @@
 
         <li class="home"><a href="index.asp"><span>首页</span></a></li>
 
-        <li class="tel"><a href="tel:17317918290"><span>电话</span></a></li>
+        <li class="tel"><a href="tel:15821741883"><span>电话</span></a></li>
 
         <li class="lx"><a href="aboutus.asp?id=2"><span>联系</span></a></li>
     </ul>
