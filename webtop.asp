@@ -1,6 +1,6 @@
 <!--top-->
 	<div class="w960px center h35px tright yahei c666666">
-  <div class="pt8 r" style="padding-right:20px;">销售热线：阮经理：15821741883 &nbsp;屈经理：18321505755 &nbsp;<a href="newscenter.asp?type=127" target="_top">龙工视频</a> <a href="http://weibo.com/3051423320/profile?rightmod=1&wvr=5&mod=personinfo" target="_blank">龙工微博</a> <a href="#">手机网</a>  <a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">加入收藏</A>  / <a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</A>
+  <div class="pt8 r" style="padding-right:20px;">销售热线：阮经理：15821741883 &nbsp;<a href="newscenter.asp?type=127" target="_top">龙工视频</a> <a href="http://weibo.com/3051423320/profile?rightmod=1&wvr=5&mod=personinfo" target="_blank">龙工微博</a> <a href="#">手机网</a>  <a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">加入收藏</A>  / <a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</A>
     <script type="text/javascript" language="javascript">
 
     //加入收藏
