@@ -32,7 +32,6 @@
       <ul class="rslides" id="slider">
         <li>
           <img src="banner/1.jpg" alt="">
-        <!--  <p class="caption">懒人之家01</p>-->
         </li>
         <li>
           <img src="banner/2.jpg" alt="">
@@ -67,7 +66,14 @@ $(function () {
 
     <div class="hometitle"><span>产品体验快速导航</span></div>
     <div class="proclass">
-
+		<div class="BigClass" ><a href="Product.asp?bid=41" style="color:#FFFFFF; display:block; width:150px; margin:0px auto;">清洁设备</a></div>
+		<div class="BigClass" ><a href="Product.asp?bid=18" style="color:#FFFFFF; display:block; width:150px; margin:0px auto;">内燃叉车</a></div>
+		<div class="BigClass" ><a href="Product.asp?bid=19" style="color:#FFFFFF; display:block; width:150px; margin:0px auto;">蓄电池叉车</a></div>
+		<div class="BigClass" ><a href="Product.asp?bid=33" style="color:#FFFFFF; display:block; width:150px; margin:0px auto;">仓储叉车</a></div>
+		<div class="BigClass" ><a href="Product.asp?bid=42" style="color:#FFFFFF; display:block; width:150px; margin:0px auto;">装载机</a></div>
+		<div class="BigClass" ><a href="Product.asp?bid=43" style="color:#FFFFFF; display:block; width:150px; margin:0px auto;">挖掘机</a></div>
+		<div class="BigClass" ><a href="Product.asp?bid=36" style="color:#FFFFFF; display:block; width:150px; margin:0px auto;">其他产品</a></div>
+		<div class="BigClass" ><a href="Product.asp?bid=39" style="color:#FFFFFF; display:block; width:150px; margin:0px auto;">配件属具</a></div>
 
 
 <%
@@ -75,7 +81,8 @@ bsql="select bigid,bigname from bigclass where orders<200  order by orders asc"
 set brs=conn.execute(bsql)
 do while not brs.eof
 '////////////////////////////////
-%><div class="BigClass" ><a href="Product.asp?bid=<%=brs("bigid")%>" style="color:#FFFFFF; display:block; width:150px; margin:0px auto;"><%= brs("bigname") %></a></div><!--<div class="smallclass" >-->
+%><div class="BigClass" ><a href="Product.asp?bid=<%=brs("bigid")%>" style="color:#FFFFFF; display:block; width:150px; margin:0px auto;"><%= brs("bigname") %></a></div>
+<!--<div class="smallclass" >-->
 <%
 
 	ssql="select smallid,smallname from smallclass where bigid="&brs("bigid")&" order by orders asc,smallid asc"
@@ -85,9 +92,9 @@ do while not brs.eof
 
 	do while not srs.eof
 
-	%>
+%>
 	 <span><A  href="Product.asp?sid=<%= srs("smallid") %>"  id="pro_<%= srs("smallid") %>"> <%= srs("smallname") %></a> </span>
-	<%
+<%
 
 	srs.movenext
 	srsi=srsi+1
@@ -108,7 +115,6 @@ brs.close
 set brs=nothing
 %>
 
-<div class="BigClass" ><a href="aboutus.asp?id=124" style="color:#FFFFFF; display:block; width:150px; margin:0px auto;">叉车租赁</a></div>
 
     </div>
 
